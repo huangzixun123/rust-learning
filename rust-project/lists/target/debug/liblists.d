@@ -1,0 +1,1 @@
+/home/ubuntu/rust-learning/rust-project/lists/target/debug/liblists.rlib: /home/ubuntu/rust-learning/rust-project/lists/src/first.rs /home/ubuntu/rust-learning/rust-project/lists/src/lib.rs /home/ubuntu/rust-learning/rust-project/lists/src/second.rs
